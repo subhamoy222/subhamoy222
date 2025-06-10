@@ -5,10 +5,10 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **Next.js** and diving deep into **System Design**
+- 🌱 Currently learning **Next.js** 
 - 🔧 Tech Stack: MERN (MongoDB, Express.js, React, Node.js)
 - 🧠 Studied **DSA** using **C++** and **Python**
-- 📫 Reach me at: **subhamoy@example.com**
+- 📫 Reach me at: **2023aspire117@gmail.com**
 
 ---
 
