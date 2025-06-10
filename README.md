@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-007acc?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
@@ -39,7 +40,10 @@
   > Helps users find jobs by role, location, and skills using Express + MongoDB + React.  
   > Admin dashboard, job filtering, and secure auth.
 
----
+- 🤖 **Loan Approval Prediction**  
+  > A machine learning app built using Python, Pandas, and Scikit-learn.  
+  > Predicts loan approval based on applicant features using logistic regression and decision trees.
+
 
 ### 📈 GitHub Stats & Streaks
 
