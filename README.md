@@ -36,10 +36,10 @@
   > A full-stack solution to manage medicines using MERN stack.  
   > Includes stock alerts, expiry tracking, and user roles.
   
--  📱 Smart Medicine Inventory (React Native App)
+- 📱 **Smart Medicine Inventory (React Native App)**
   > Android application built with React Native using the same backend as the MERN-based web app.
   > Features include user authentication, real-time inventory sync, and mobile-friendly medicine management.
-
+  
 - 💼 **Job Seeking Application**  
   > Helps users find jobs by role, location, and skills using Express + MongoDB + React.  
   > Admin dashboard, job filtering, and secure auth.
